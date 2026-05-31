@@ -1,1 +1,8 @@
 Stacking_classifier/
+
+__pycache__/
+.ipynb_checkpoints/
+
+models/*.pkl
+
+*.pyc
